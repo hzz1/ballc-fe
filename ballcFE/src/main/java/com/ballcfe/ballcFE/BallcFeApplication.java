@@ -1,0 +1,12 @@
+package com.ballcfe.ballcFE;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BallcFeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BallcFeApplication.class, args);
+	}
+}
